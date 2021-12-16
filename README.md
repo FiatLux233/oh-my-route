@@ -1,9 +1,9 @@
 # oh-my-route
 > 京东签到工具，在原仓库上做了优化。
->
+> 12.16
 > 原作者：[xcqlucky](https://github.com/xcqlucky)，原仓库：[jd_sign_action](https://github.com/xcqlucky/JD_Sign_Action)
 
-12.16 
+
 ## 触发
 * 点亮 `Star` 或凌晨4点定时执行
 * 如果你想自定义触发方式，编辑 `.github/workflows/work.yaml` 
